@@ -4,7 +4,7 @@
 
 来自网络资源，或者是自己写的，当然还是希望以后是自己写的比较多就更好了
 
-目前有一下几个模块
+目前有以下几个模块
 
 1. [下载模块](https://github.com/Borber/python-toolkits/blob/master/down_load.py) 
 2. [IP代理池构建模块](https://github.com/Borber/python-toolkits/blob/master/ip_proxies.py) 对应的 [代理池文件](https://github.com/Borber/python-toolkits/blob/master/ips_pool.csv) 
